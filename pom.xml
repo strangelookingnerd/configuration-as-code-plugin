@@ -44,6 +44,8 @@
     <tagNameFormat>configuration-as-code-@{project.version}</tagNameFormat>
     <useBeta>true</useBeta>
     <plugin-bom.version>3893.v213a_42768d35</plugin-bom.version>
+    <!-- REMOVE -->
+    <jenkins-test-harness.version>2380.vc51ea_a_cf2711</jenkins-test-harness.version>
     <spotless.check.skip>false</spotless.check.skip>
   </properties>
 
